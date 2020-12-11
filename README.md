@@ -1,6 +1,6 @@
 # Coding-101
 
 ## Learning programming languages:
-- C/C++
-- Java
-- Python
+- **C/C++**
+- **Java**
+- **Python**

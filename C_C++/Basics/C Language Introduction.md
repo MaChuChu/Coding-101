@@ -54,3 +54,16 @@ main(){
   return 0; //Return statement, this depends on the type of function
 }
 ```
+
+------
+# Writing First Program
+
+```c
+#include <stdio.h> 
+
+int main(void){ 
+	printf("Hello World!"); 
+	return 0; 
+} 
+```
+

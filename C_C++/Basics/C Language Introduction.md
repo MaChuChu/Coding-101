@@ -42,6 +42,15 @@ Operations are performed within the body.
 main(){
   int a = 10; //Declaring variable
   printf*("%d",a); //Output text into terminal
-  return 0; //Return value for function
+  return 0;
+}
+```
+
+## Return Statement
+The return statement refers to the returning of the values from a function.  
+This return statement and return value depend upon the return type of the function.
+```C
+main(){
+  return 0;
 }
 ```

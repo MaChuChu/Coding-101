@@ -11,3 +11,12 @@ main(){
   return 0;
 }
 ```
+| **Header Files Inclusion** | #include <....>                                              |
+| :------------------------- | ------------------------------------------------------------ |
+| stddef.h                   | Defines several useful types and macros.                     |
+| stdint.h                   | Defines exact width integer types.                           |
+| stdio.h                    | Defines core input and output functions.                     |
+| stdlib.h                   | Defines numeric conversion functions, pseudo-random network generator, memory allocation. |
+| string.h                   | Defines string handling functions.                           |
+| math.h                     | Defines common mathematical functions.                       |
+

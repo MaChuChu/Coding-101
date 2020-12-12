@@ -51,6 +51,6 @@ The return statement refers to the returning of the values from a function.
 This return statement and return value depend upon the return type of the function.
 ```C
 main(){
-  return 0;
+  return 0; //Return statement, this depends on the type of function
 }
 ```

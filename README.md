@@ -1,6 +1,6 @@
 # Coding-101
 
-| **Languages** | **Programming** |
+| `Languages` | `Programming` |
 | --------- | :---------- |
 | • Java<br />• C/C++<br />• Python | • Programming in C/C++<br />• Fundementals<br />• Applications<br/>• Maths and Computation<br />• Statistics and Probability |
 

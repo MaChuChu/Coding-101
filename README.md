@@ -13,3 +13,4 @@
 
 ## Programming Notes
 - [Programming in C/C++](https://github.com/MaChuChu/Coding-101/blob/main/Programming/ProgrammingInCC++.md)
+- [Fundamental](https://github.com/MaChuChu/Coding-101/blob/main/Programming/Fundamental.md)

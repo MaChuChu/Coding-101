@@ -1,5 +1,5 @@
 # Coding-101
-<center>
+<centre>
 | `Languages` | `Programming` |
 | --------- | :---------- |
 | • Java | • Programming in C/C++ |
@@ -7,7 +7,7 @@
 | • Python | • Application |
 |   | • Maths and Computation  |
 |   | • Statistics and Probability  |
-</center>
+</centre>
 
 ## C/C++
 - [Basic](https://github.com/MaChuChu/Coding-101/blob/main/C_C%2B%2B/Basics/C%20Language%20Introduction.md)

@@ -1,7 +1,7 @@
 # Coding-101
 
 | `Languages` | `Programming` |
-| :--------- | :----------: |
+| :--------- | :---------- |
 | • Java | • Programming in C/C++ |
 | • C/C++ | • Fundemental  |
 | • Python | • Application |

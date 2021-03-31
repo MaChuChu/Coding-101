@@ -3,7 +3,7 @@
 | `Languages` | `Programming` |
 | :--------- | :---------- |
 | • Java | • Programming in C/C++ |
-| • C/C++ | • Fundemental  |
+| [ReadMe](https://github.com/MaChuChu/Coding-101/tree/main/C_C%2B%2B) | • Fundemental  |
 | • Python | • Application |
 |   | • Maths and Computation  |
 |   | • Statistics and Probability  |

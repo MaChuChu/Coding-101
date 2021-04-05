@@ -2,16 +2,16 @@
 
 # Introduction
 
-| Basics of Algorithms       | Decription                                                   |
-| -------------------------- | ------------------------------------------------------------ |
-| Algorithm                  | A procedure for solving a methematiccal problem in a finite number of steps that frequently involves the repition of an operation. |
+| Basics of Algorithms         | Decription                                                   |
+| ---------------------------- | ------------------------------------------------------------ |
+| Algorithm                    | A procedure for solving a methematiccal problem in a finite number of steps that frequently involves the repition of an operation. |
 | **Properties of an Algorithm** |                                                              |
-| Definiteness               | Each step must be precisely defined. Actions to be carried out must be specified for each case. |
-| Effectiveness              | Operations must be basic in order to be done in a finite length. |
-| Finiteness                 | Must have an end, in order to produce an output.             |
-| Machine-Independent        | Stays the same independent of hardware and software (language). |
-| Correctness                | Always returns the desired output for all legall instances off the problem. |
-| Efficiency                 | Running time (Time Complexity)<br />Memory requirement (Space Complexity)<br />Bandwidth (Communication Speed) |
+| Definiteness                 | Each step must be precisely defined. Actions to be carried out must be specified for each case. |
+| Effectiveness                | Operations must be basic in order to be done in a finite length. |
+| Finiteness                   | Must have an end, in order to produce an output.             |
+| Machine-Independent          | Stays the same independent of hardware and software (language). |
+| Correctness                  | Always returns the desired output for all legall instances off the problem. |
+| Efficiency                   | Running time (Time Complexity)<br />Memory requirement (Space Complexity)<br />Bandwidth (Communication Speed) |
 
 | Structured Programming Theorem | Description                                                  |
 | ------------------------------ | ------------------------------------------------------------ |

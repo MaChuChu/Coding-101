@@ -23,7 +23,7 @@
 | Pseudocode              | Pretends to be computer code, because it uses constructs of programming languages.<br />Syntax is not standardised. |
 | Flowcharts              | A visual representation of an algorithm.<br />Well-defined and standardised<br />• Easy to understand symbols to represent steps.<br />• Visual Elements to represent constructs of programming languages. |
 
-## FED Cycle
+## What is Programming?
 
 - Computer programming is the process of designing and building an **executable** computer program for accomplishing a **specific task**.
 

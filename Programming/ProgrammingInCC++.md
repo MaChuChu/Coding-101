@@ -5,7 +5,7 @@
 | Basics of Algorithms       | Decription                                                   |
 | -------------------------- | ------------------------------------------------------------ |
 | Algorithm                  | A procedure for solving a methematiccal problem in a finite number of steps that frequently involves the repition of an operation. |
-| Properties of an Algorithm |                                                              |
+| **Properties of an Algorithm** |                                                              |
 | Definiteness               | Each step must be precisely defined. Actions to be carried out must be specified for each case. |
 | Effectiveness              | Operations must be basic in order to be done in a finite length. |
 | Finiteness                 | Must have an end, in order to produce an output.             |

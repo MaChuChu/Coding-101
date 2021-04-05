@@ -35,3 +35,5 @@
 	- Therefore requires expertise in several subjects specialised in  algorithms, and formal logic.
 
 - A programming language is a vocabulary and a set of grammatical rules for instructing a computer or computing device to perform specific tasks.
+
+# Data Representation
